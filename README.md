@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-vargas-de-paula&layout=compact)](https://github.com/leonardo-vargas-de-paula/github-readme-stats)
 
 
-## 📝Ferramentas
+## 📝Ferramentas em estudo
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>
