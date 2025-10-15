@@ -1,9 +1,3 @@
-<h1 align="center">Olá, eu sou o Leonardo Vargas 👋👋</h1>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-vargas-de-paula&layout=compact)](https://github.com/leonardo-vargas-de-paula/github-readme-stats)
-
 
 ## 📝Ferramentas em estudo
 <p>
