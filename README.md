@@ -16,12 +16,12 @@
 ### 🚀 Desafio Indicium Light House - Engenharia de Dados  
 🔗 [**desafio-LH-ED**](https://github.com/leonardo-vargas-de-paula/desafio-LH-ED)
 
----
+
 
 ### 🏢 Desafio Técnico Seazone - Área de Dados  
 🔗 [**DESAFIO-PRATICO-SEAZONE**](https://github.com/leonardo-vargas-de-paula/DESAFIO-PRATICO-SEAZONE)
 
----
+
 
 ### 📊 Análise do ESTBAN | Pantanal.dev - Ciência de Dados  
 🔗 [**estban-pantanal-dev**](https://github.com/leonardo-vargas-de-paula/estban-pantanal-dev)
