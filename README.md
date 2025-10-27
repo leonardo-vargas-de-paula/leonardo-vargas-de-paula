@@ -13,6 +13,11 @@
 
 ## 💻 Principais Projetos
 
+### 🛍️ API de Pedidos com FastAPI - Backend (_Em construção..._)
+🔗 [**API de Pedidos**](https://github.com/leonardo-vargas-de-paula/pedidos-fastAPI)
+
+
+
 ### 🚀 Desafio Indicium Light House - Engenharia de Dados  
 🔗 [**desafio-LH-ED**](https://github.com/leonardo-vargas-de-paula/desafio-LH-ED)
 
