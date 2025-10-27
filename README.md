@@ -14,9 +14,10 @@
 ## 💻 Principais Projetos
 
 ### 🛍️ API de Pedidos com FastAPI - Backend (_Em construção..._)
-🔗 [**API de Pedidos**](https://github.com/leonardo-vargas-de-paula/pedidos-fastAPI)
+🔗 [**API de Pedidos**](https://github.com/leonardo-vargas-de-paula/pedidos-fastAPI) 
 
-
+### 🌐 Proxy de rate limiting - Backend (_Em construção..._)
+🔗 [**rate-limiting-proxy**](https://github.com/leonardo-vargas-de-paula/rate-limiting-proxy) 
 
 ### 🚀 Desafio Indicium Light House - Engenharia de Dados  
 🔗 [**desafio-LH-ED**](https://github.com/leonardo-vargas-de-paula/desafio-LH-ED)
