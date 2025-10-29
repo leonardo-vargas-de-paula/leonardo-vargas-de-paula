@@ -1,3 +1,4 @@
+  [![HitCount](https://hits.dwyl.com/leonardo-vargas-de-paula/leonardo-vargas-de-paula/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/leonardo-vargas-de-paula/leonardo-vargas-de-paula/READMEmd)
 
 ## 📝Ferramentas em estudo
 <p>
