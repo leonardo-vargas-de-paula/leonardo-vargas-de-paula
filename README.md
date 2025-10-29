@@ -1,5 +1,4 @@
-  [![HitCount](https://hits.dwyl.com/leonardo-vargas-de-paula/leonardo-vargas-de-paula/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/leonardo-vargas-de-paula/leonardo-vargas-de-paula/READMEmd)
-
+<img src="https://komarev.com/ghpvc/?username=leonardo-vargas-de-paula&label=Profile%20views&color=00FF88&style=flat" alt="Profile views" />
 ## 📝Ferramentas em estudo
 <p>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
