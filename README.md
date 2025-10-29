@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=leonardo-vargas-de-paula&label=Profile%20views&color=00FF88&style=flat" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=leonardo-vargas-de-paula.README.md" alt="visitor badge"/>
 ## 📝Ferramentas em estudo
 <p>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
