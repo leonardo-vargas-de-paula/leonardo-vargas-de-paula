@@ -1,4 +1,3 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=leonardo-vargas-de-paula.README.md" alt="visitor badge"/>
 ## 📝Ferramentas em estudo
 <p>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
