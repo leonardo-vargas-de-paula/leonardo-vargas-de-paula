@@ -31,3 +31,6 @@
 ### 📊 Análise do ESTBAN | Pantanal.dev - Ciência de Dados  
 🔗 [**estban-pantanal-dev**](https://github.com/leonardo-vargas-de-paula/estban-pantanal-dev)
 
+##
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-vargas-de-paula&layout=compact&theme=dracula)
