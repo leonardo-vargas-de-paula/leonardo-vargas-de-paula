@@ -10,7 +10,7 @@
 
 ## 💻 Principais Projetos
 
-### 🛍️ API de Pedidos com FastAPI - Backend (_Em construção..._)
+### 🛍️ API de Pedidos com FastAPI - Backend (_Adições em breve_)
 🔗 [**API de Pedidos**](https://github.com/leonardo-vargas-de-paula/pedidos-fastAPI) 
 
 ### 🌐 Proxy de rate limiting com FastAPI - Backend (_Em construção..._)
