@@ -1,4 +1,4 @@
-## 📝Ferramentas em estudo
+## 📝Ferramentas
 <p>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="40" height="40" />
