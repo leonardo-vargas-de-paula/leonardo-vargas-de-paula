@@ -4,7 +4,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />  
-<img src = "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="40" height="40"/>
+<img src = "https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
 </p>
