@@ -11,11 +11,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
-
-## 💻 Principais Projetos
+## 💻 Alguns Projetos
 
 ### 🛍️ API de Pedidos com FastAPI - Backend 
 🔗 [**API de Pedidos**](https://github.com/leonardo-vargas-de-paula/pedidos-fastAPI) 
