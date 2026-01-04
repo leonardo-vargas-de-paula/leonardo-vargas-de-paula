@@ -31,8 +31,8 @@
 
 
 
-### 🏢 Desafio Técnico Seazone - Área de Dados  
-🔗 [**DESAFIO-PRATICO-SEAZONE**](https://github.com/leonardo-vargas-de-paula/DESAFIO-PRATICO-SEAZONE)
+### 🚗 Parking service - API em Django para estacionamentos 
+🔗 [**Parking service**](https://github.com/leonardo-vargas-de-paula/parking-service.git)
 
 
 
