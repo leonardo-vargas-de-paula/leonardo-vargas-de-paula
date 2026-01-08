@@ -27,9 +27,8 @@
 ### 🌐 Proxy de rate limiting com FastAPI - Backend 
 🔗 [**rate-limiting-proxy**](https://github.com/leonardo-vargas-de-paula/rate-limiting-proxy) 
 
-### 🚀 Desafio Indicium Light House - Engenharia de Dados  
-🔗 [**desafio-LH-ED**](https://github.com/leonardo-vargas-de-paula/desafio-LH-ED)
-
+### 💲 Desafio Picpay Simplificado 
+🔗 [**desafio picpay simplificado**](https://github.com/leonardo-vargas-de-paula/desafio-picpay-simplificado)
 
 
 ### 🚗 Parking service - API em Django para estacionamentos 
