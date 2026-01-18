@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=header"/>
+
 ## 🛠️ Principais Ferramentas
 
 <div align="center">
@@ -41,3 +43,9 @@
 
 ##
 
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-vargas-de-paula&layout=compact&hide_border=true&title_color=007FFF&text_color=02c931&bg_color=0d1117" />
+</div>
+
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=footer"/>
