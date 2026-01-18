@@ -29,7 +29,7 @@
 ### 🌐 Proxy de rate limiting com FastAPI - Backend 
 🔗 [**rate-limiting-proxy**](https://github.com/leonardo-vargas-de-paula/rate-limiting-proxy) 
 
-### 💲 Desafio Picpay Simplificado 
+### 💲 Desafio Picpay Simplificado com Spring - Backend
 🔗 [**desafio picpay simplificado**](https://github.com/leonardo-vargas-de-paula/desafio-picpay-simplificado)
 
 
