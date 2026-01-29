@@ -22,15 +22,14 @@
 
 ## 💻 Alguns Projetos
 
+### Desafio Picpay Simplificado com Spring - Backend
+🔗 [**desafio picpay simplificado**](https://github.com/leonardo-vargas-de-paula/desafio-picpay-simplificado)
+
 ### API de Pedidos com FastAPI - Backend 
 🔗 [**API de Pedidos**](https://github.com/leonardo-vargas-de-paula/pedidos-fastAPI) 
 
 ### Proxy de rate limiting com FastAPI - Backend 
 🔗 [**rate-limiting-proxy**](https://github.com/leonardo-vargas-de-paula/rate-limiting-proxy) 
-
-### Desafio Picpay Simplificado com Spring - Backend
-🔗 [**desafio picpay simplificado**](https://github.com/leonardo-vargas-de-paula/desafio-picpay-simplificado)
-
 
 ### Parking service - API em Django para estacionamentos 
 🔗 [**Parking service**](https://github.com/leonardo-vargas-de-paula/parking-service.git)
