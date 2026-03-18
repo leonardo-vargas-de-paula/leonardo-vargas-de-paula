@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=header"/>
 
+<!-- <h1 align="center"><code>leonardo@linux:~$ whoami</code></h1>
+<div align="center" style="display:flex;">
+  <img src="assets/gif-tux.gif">
+  
+</div>
+ -->
 ## Stacks
 
 #### Dev
@@ -40,7 +46,7 @@
 </div>
 
 
-## Alguns Projetos
+<!-- ## Alguns Projetos
 
 ### Desafio Picpay Simplificado com Spring - Backend
 🔗 [**desafio picpay simplificado**](https://github.com/leonardo-vargas-de-paula/desafio-picpay-simplificado)
@@ -58,5 +64,6 @@
 
 ### Análise do ESTBAN | Pantanal.dev - Ciência de Dados  
 🔗 [**estban-pantanal-dev**](https://github.com/leonardo-vargas-de-paula/estban-pantanal-dev)
+-->
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=footer"/> 
