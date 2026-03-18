@@ -1,14 +1,38 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=header"/>
 
-<!-- <h1 align="center"><code>leonardo@linux:~$ whoami</code></h1>
-<div align="center" style="display:flex;">
-  <img src="assets/gif-tux.gif">
-  
-</div>
- -->
-## Stacks
+<h1 align="center"><code>leonardo@linux:~$ whoami</code></h1>
 
-#### Dev
+<table align="center" border="0">
+  <tr>
+    <td align="left" style="vertical-align: middle;">
+      <ul style="list-style-position: inside; padding-left: 0;">
+        <li>Acadêmico de Sistemas de informação - UFMS</li>
+        <li>Entusiasta de Linux</li>
+        <li>Interesse por infraestrutura e Devops</li>
+        <li>Conhecimentos em desenvolvimento</li>
+        <li>Estagiário de Infraestrutura no TRE/MS</li>
+      </ul>
+    </td>
+    <td align="center" style="vertical-align: middle;">
+      <img src="assets/gif-tux.gif" width="150px">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<h2 align="center"><code>~$ skills</code></h2>
+<h3 align="center"><code>~$ infra/DevOps</code></h3>
+<div align="start">
+  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+<h3 align="center"><code>~$ dev</code></h3>
 <div align="start"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -23,15 +47,6 @@
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </div>
 
-#### Infra/DevOps
-<div align="start">
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
 
 
 #### Outras que também gosto 😁
