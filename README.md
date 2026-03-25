@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4AF626&height=120&section=header"/>
 
-<h1 align="center"><code>leonardo@linux:~$ whoami</code></h1>
+<h1 align="center"><code>leonardo@github:~$ whoami</code></h1>
 
 <table align="center" border="0">
   <tr>
