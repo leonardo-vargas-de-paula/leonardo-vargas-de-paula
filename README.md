@@ -8,7 +8,7 @@
       <ul style="list-style-position: inside; padding-left: 0;">
         <li>Acadêmico de Sistemas de informação - UFMS</li>
         <li>Entusiasta de Linux</li>
-        <li>Interesse por infraestrutura e Devops</li>
+        <li>Interesse por infraestrutura e DevOps</li>
         <li>Conhecimentos em desenvolvimento</li>
         <li>Estagiário de Infraestrutura no TRE/MS</li>
       </ul>
