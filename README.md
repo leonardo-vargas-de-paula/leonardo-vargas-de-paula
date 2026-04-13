@@ -10,7 +10,7 @@
         <li>Entusiasta de Linux</li>
         <li>Interesse por infraestrutura e DevOps</li>
         <li>Conhecimentos em desenvolvimento</li>
-        <li>Estagiário de Infraestrutura no TRE/MS</li>
+        <!-- <li>Estagiário de Infraestrutura no TRE/MS</li> -->
       </ul>
     </td>
     <td align="center" style="vertical-align: middle;">
