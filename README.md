@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4AF626&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e093a&height=120&section=header"/>
 
 <h1 align="center"><code>leonardo@github:~$ whoami</code></h1>
 
@@ -74,4 +74,4 @@
 🔗 [**estban-pantanal-dev**](https://github.com/leonardo-vargas-de-paula/estban-pantanal-dev)
 -->
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4AF626&height=120&section=footer"/> 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e093a&height=120&section=footer"/> 
